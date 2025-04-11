@@ -1,2 +1,4 @@
-# AER813-CapstoneCodes
-Project Files for AER813 - Mars Mission Capstone Codes
+# AER870-Thesis Code
+Project Files for AER870 
+Everything is contained in one jupiter notebook on Google Colab
+
